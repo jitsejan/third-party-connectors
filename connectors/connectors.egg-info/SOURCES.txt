@@ -1,0 +1,6 @@
+setup.py
+connectors.egg-info/PKG-INFO
+connectors.egg-info/SOURCES.txt
+connectors.egg-info/dependency_links.txt
+connectors.egg-info/top_level.txt
+jira/__init__.py
